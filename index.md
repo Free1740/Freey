@@ -8,7 +8,7 @@
       <p><b>地址：山东省青岛市黄岛区长江西路66号中国石油大学大学，邮编：266400</b></p>
     </td>
     <td width="25%">
-      <img src="/pic.png" width="100%">      
+      <img src="pic.png" width="100%">      
     </td>
   </tr>
 </table>
